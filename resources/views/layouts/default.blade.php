@@ -1,31 +1,20 @@
 <!doctype html>
 <html>
-<head>
-   @include('includes.head')
-</head>
-<body class=" 1-column undefined  page-animated svg-wrapper" data-menu-open="hover" data-menu="" style="background:white;">
+  <head>
+     @include('includes.head')
+  </head>
 
-<?php
-  if(Route::current()->getName() != 'nft'){
-?>
-    <div class="container">
-
-<?php
-  } else{
-?>
+  <body class=" 1-column undefined  page-animated svg-wrapper" data-menu-open="hover" data-menu="" style="background:white;">
     <div>
-<?php
-  }
-?>
-   <header class="row">
-       @include('includes.header')
-   </header>
-   <div id="main" class="row">
-           @yield('content')
+       <header class="row">
+           @include('includes.header')
+       </header>
+       <div id="main" class="row">
+               @yield('content')
+       </div>
+       <footer class="row">
+           @include('includes.footer')
+       </footer>
    </div>
-   <footer class="row">
-       @include('includes.footer')
-   </footer>
-</div>
-</body>
+  </body>
 </html>
