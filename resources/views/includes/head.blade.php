@@ -10,13 +10,6 @@
 <title>D'SHINE BRIGHTENING | Official Website</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}">
 
-<!-- Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,700" rel="stylesheet">
-
-<link href="{{ asset('css/font-awesome.min.css') }}" rel="stylesheet">
-
-<link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css">
-
 <link rel="stylesheet" href="{{ asset('css/plugins/swiper-bundle.min.css') }}">
 <link rel="stylesheet" href="{{ asset('css/plugins/glightbox.min.css') }}">
 <link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&amp;family=Karma:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
