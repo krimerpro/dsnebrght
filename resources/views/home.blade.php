@@ -14,7 +14,7 @@
                                     <div class="slider__content">
                                         <h2 class="slider__maintitle text__primary h1">Beauty is Whatever <br>
                                             Brings Perfect</h2>
-                                        <p class="slider__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  aliquip ex ea commodo consequat. </p>
+                                        <p class="slider__desc">We are committed to offering the finest selection of clean and natural skin care products created by the world’s leading brands that are pioneers in innovation, science, technology, and sustainability.</p>
                                         <a class="primary__btn slider__btn" href="shop.html">
                                             SHOP NOW
                                             <svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -38,7 +38,7 @@
                                     <div class="slider__content">
                                         <h2 class="slider__maintitle text__primary h1">Beauty is Whatever <br>
                                             Brings Perfect</h2>
-                                        <p class="slider__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  aliquip ex ea commodo consequat. </p>
+                                        <p class="slider__desc">We are committed to offering the finest selection of clean and natural skin care products created by the world’s leading brands that are pioneers in innovation, science, technology, and sustainability.</p>
                                         <a class="primary__btn slider__btn" href="shop.html">
                                             SHOP NOW
                                             <svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -62,7 +62,7 @@
                                     <div class="slider__content">
                                         <h2 class="slider__maintitle text__primary h1">Beauty is Whatever <br>
                                             Brings Perfect</h2>
-                                        <p class="slider__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,  aliquip ex ea commodo consequat. </p>
+                                        <p class="slider__desc">We are committed to offering the finest selection of clean and natural skin care products created by the world’s leading brands that are pioneers in innovation, science, technology, and sustainability.</p>
                                         <a class="primary__btn slider__btn" href="shop.html">
                                             SHOP NOW
                                             <svg width="17" height="12" viewBox="0 0 17 12" fill="none" xmlns="http://www.w3.org/2000/svg">
