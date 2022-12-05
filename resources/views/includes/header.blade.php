@@ -226,7 +226,7 @@
         <div class="offcanvas__inner">
             <div class="offcanvas__logo">
                 <a class="offcanvas__logo_link" href="index.html">
-                    <img src="{{ asset('images/logo/nav-log.webp') }}" alt="Logo-img" width="158" height="36">
+                    <img src="{{ asset('images/logo/nav-logo.webp') }}" alt="Logo-img" width="158" height="36">
                 </a>
                 <button class="offcanvas__close--btn" data-offcanvas>close</button>
             </div>
