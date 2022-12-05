@@ -204,8 +204,8 @@
                         <article class="product__card">
                             <div class="product__card--thumbnail">
                                 <a class="product__card--thumbnail__link display-block" data-bs-toggle="modal" data-bs-target="#productDetail1" href="javascript:void(0)">
-                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/facial-wash.jpg') }}" alt="product-img">
-                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/facial-wash.jpg') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/facial-wash.JPG') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/facial-wash.JPG') }}" alt="product-img">
                                 </a>
                                 <!-- <span class="product__badge">-14%</span> -->
                                 <ul class="product__card--action">
@@ -286,8 +286,8 @@
                         <article class="product__card">
                             <div class="product__card--thumbnail">
                                 <a class="product__card--thumbnail__link display-block" data-bs-toggle="modal" data-bs-target="#productDetail2" href="javascript:void(0)">
-                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/toner.jpg') }}" alt="product-img">
-                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/toner.jpg') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/toner.JPG') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/toner.JPG') }}" alt="product-img">
                                 </a>
                                 <ul class="product__card--action">
                                     <li class="product__card--action__list">
@@ -367,8 +367,8 @@
                         <article class="product__card">
                             <div class="product__card--thumbnail">
                                 <a class="product__card--thumbnail__link display-block" data-bs-toggle="modal" data-bs-target="#productDetail3" href="javascript:void(0)">
-                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/micelar-water.jpg') }}" alt="product-img">
-                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/micelar-water.jpg') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/micelar-water.JPG') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/micelar-water.JPG') }}" alt="product-img">
                                 </a>
                                 <!-- <span class="product__badge">-14%</span> -->
                                 <ul class="product__card--action">
@@ -449,8 +449,8 @@
                         <article class="product__card">
                             <div class="product__card--thumbnail">
                                 <a class="product__card--thumbnail__link display-block" data-bs-toggle="modal" data-bs-target="#productDetail4" href="javascript:void(0)">
-                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/day-cream.jpg') }}" alt="product-img">
-                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/day-cream.jpg') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/day-cream.JPG') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/day-cream.JPG') }}" alt="product-img">
                                 </a>
                                 <ul class="product__card--action">
                                     <li class="product__card--action__list">
@@ -530,8 +530,8 @@
                         <article class="product__card">
                             <div class="product__card--thumbnail">
                                 <a class="product__card--thumbnail__link display-block" data-bs-toggle="modal" data-bs-target="#productDetail5" href="javascript:void(0)">
-                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/night-cream.jpg') }}" alt="product-img">
-                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/night-cream.jpg') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__primary--img" src="{{ asset('images/product/main-product/night-cream.JPG') }}" alt="product-img">
+                                    <img class="product__card--thumbnail__img product__secondary--img" src="{{ asset('images/product/main-product/night-cream.JPG') }}" alt="product-img">
                                 </a>
                                 <ul class="product__card--action">
                                     <li class="product__card--action__list">
@@ -1656,9 +1656,9 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--preview__items">
-                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/facial-wash.jpg') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/facial-wash.jpg') }}" alt="product-media-img"></a>
+                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/facial-wash.JPG') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/facial-wash.JPG') }}" alt="product-media-img"></a>
                                         <div class="product__media--view__icon">
-                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/facial-wash.jpg') }}" data-gallery="product-media-preview">
+                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/facial-wash.JPG') }}" data-gallery="product-media-preview">
                                                 <svg class="product__items--action__btn--svg" xmlns="http://www.w3.org/2000/svg" width="22.51" height="22.443" viewBox="0 0 512 512"><path d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M338.29 338.29L448 448"></path></svg>
                                                 <span class="visually-hidden">product view</span>
                                             </a>
@@ -1671,7 +1671,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--nav__items">
-                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/facial-wash.jpg') }}" alt="product-nav-img">
+                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/facial-wash.JPG') }}" alt="product-nav-img">
                                     </div>
                                 </div>
                             </div>
@@ -1721,9 +1721,9 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--preview__items">
-                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/toner.jpg') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/toner.jpg') }}" alt="product-media-img"></a>
+                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/toner.JPG') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/toner.JPG') }}" alt="product-media-img"></a>
                                         <div class="product__media--view__icon">
-                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/toner.jpg') }}" data-gallery="product-media-preview">
+                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/toner.JPG') }}" data-gallery="product-media-preview">
                                                 <svg class="product__items--action__btn--svg" xmlns="http://www.w3.org/2000/svg" width="22.51" height="22.443" viewBox="0 0 512 512"><path d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M338.29 338.29L448 448"></path></svg>
                                                 <span class="visually-hidden">product view</span>
                                             </a>
@@ -1736,7 +1736,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--nav__items">
-                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/toner.jpg') }}" alt="product-nav-img">
+                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/toner.JPG') }}" alt="product-nav-img">
                                     </div>
                                 </div>
                             </div>
@@ -1786,9 +1786,9 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--preview__items">
-                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/micelar-water.jpg') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/micelar-water.jpg') }}" alt="product-media-img"></a>
+                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/micelar-water.JPG') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/micelar-water.JPG') }}" alt="product-media-img"></a>
                                         <div class="product__media--view__icon">
-                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/micelar-water.jpg') }}" data-gallery="product-media-preview">
+                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/micelar-water.JPG') }}" data-gallery="product-media-preview">
                                                 <svg class="product__items--action__btn--svg" xmlns="http://www.w3.org/2000/svg" width="22.51" height="22.443" viewBox="0 0 512 512"><path d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M338.29 338.29L448 448"></path></svg>
                                                 <span class="visually-hidden">product view</span>
                                             </a>
@@ -1801,7 +1801,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--nav__items">
-                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/micelar-water.jpg') }}" alt="product-nav-img">
+                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/micelar-water.JPG') }}" alt="product-nav-img">
                                     </div>
                                 </div>
                             </div>
@@ -1851,9 +1851,9 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--preview__items">
-                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/day-cream.jpg') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/day-cream.jpg') }}" alt="product-media-img"></a>
+                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/day-cream.JPG') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/day-cream.JPG') }}" alt="product-media-img"></a>
                                         <div class="product__media--view__icon">
-                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/day-cream.jpg') }}" data-gallery="product-media-preview">
+                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/day-cream.JPG') }}" data-gallery="product-media-preview">
                                                 <svg class="product__items--action__btn--svg" xmlns="http://www.w3.org/2000/svg" width="22.51" height="22.443" viewBox="0 0 512 512"><path d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M338.29 338.29L448 448"></path></svg>
                                                 <span class="visually-hidden">product view</span>
                                             </a>
@@ -1866,7 +1866,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--nav__items">
-                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/day-cream.jpg') }}" alt="product-nav-img">
+                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/day-cream.JPG') }}" alt="product-nav-img">
                                     </div>
                                 </div>
                             </div>
@@ -1916,9 +1916,9 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--preview__items">
-                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/night-cream.jpg') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/night-cream.jpg') }}" alt="product-media-img"></a>
+                                        <a class="product__media--preview__items--link glightbox" data-gallery="product-media-preview" href="{{ asset('images/product/main-product/night-cream.JPG') }}"><img class="product__media--preview__items--img" src="{{ asset('images/product/main-product/night-cream.JPG') }}" alt="product-media-img"></a>
                                         <div class="product__media--view__icon">
-                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/night-cream.jpg') }}" data-gallery="product-media-preview">
+                                            <a class="product__media--view__icon--link glightbox" href="{{ asset('images/main-product/night-cream.JPG') }}" data-gallery="product-media-preview">
                                                 <svg class="product__items--action__btn--svg" xmlns="http://www.w3.org/2000/svg" width="22.51" height="22.443" viewBox="0 0 512 512"><path d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z" fill="none" stroke="currentColor" stroke-miterlimit="10" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M338.29 338.29L448 448"></path></svg>
                                                 <span class="visually-hidden">product view</span>
                                             </a>
@@ -1931,7 +1931,7 @@
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="product__media--nav__items">
-                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/night-cream.jpg') }}" alt="product-nav-img">
+                                        <img class="product__media--nav__items--img" src="{{ asset('images/product/main-product/night-cream.JPG') }}" alt="product-nav-img">
                                     </div>
                                 </div>
                             </div>
